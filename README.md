@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://tokrepo.com/favicon.ico" alt="TokRepo Logo" /> [TokRepo](https://www.npmjs.com/package/tokrepo-mcp-server) - Open registry for AI assets. Search and install 200+ skills, prompts, MCP configs, and workflows via MCP server (`npx tokrepo-mcp-server`) or CLI (`npx tokrepo`).
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
