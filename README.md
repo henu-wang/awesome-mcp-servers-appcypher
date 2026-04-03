@@ -423,6 +423,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img height="12" width="12" src="https://platform.composio.dev/favicon.ico" alt="Composio Logo"> **[Rube](https://rube.composio.dev)** - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion. Simply install it in your AI client, authenticate once with your apps, and start asking your AI to perform real actions like "Send an email" or "Create a task."
 
 - <img height="12" width="12" src="https://pipedream.com/favicon.ico" alt="Pipedream Logo" /> [Pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+
+- <img height="12" width="12" src="https://tokrepo.com/favicon.ico" alt="TokRepo Logo" /> [TokRepo](https://github.com/henu-wang/tokrepo-mcp-server) - Open registry MCP server for discovering and installing 220+ curated AI assets including skills, prompts, workflows, and MCP configs.
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
